@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "Webhook.js"
 
 hidden = [".config", "package-lock.json"]
 
